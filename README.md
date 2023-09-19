@@ -1,9 +1,33 @@
-# web-site-proutos
+# indice
 
-adicionamos um projeto web sites de produtos desenvolvimento do 2 trimestre
+* [projeto-de-escrita-README](#projeto-de-escrita-readme)
+* [Descrição](#descrição)
+* [Introdução](#introdução)
+* [Tecnologia Utilizada](#tecnologia-utilizada)
+* [Fontes Consultadas](#fontes-consultadas)
+* [Autores](#autores)
 
-escolhemos um tema para aplicar no web site
 
-adicionamos preços e as descrições
+## Descrição 📝
 
-fizemos algumas alterações no estilo e loo apos fizemos a entrega
+- Breve Descrição
+
+## Introdução
+
+- documentação de projeto web site de produtos
+
+## Funcionalidade 🛠️
+
+- fizemos um projeto com o web site de produtos
+
+## Tecnologia Utilizada 👩🏾‍💻
+
+- VScode; Githib; One drive;
+
+## Fontes Consultadas 📱
+
+- https://www.behance.net/gallery/80346323/CUBE-ME
+
+## Autores 📕
+- Ana Beatriz Silva
+- Naillim Novaski
